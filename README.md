@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @basiljung
 - 👀 I’m interested in skiing & software engineering
-- 🌱 I’m currently learning C# & Angular
+- 🌱 I’m currently learning C#, ASP.NET & Angular
 - 📫 How to reach me basil.jung@hotmail.ch
