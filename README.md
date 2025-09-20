@@ -1,5 +1,5 @@
-👋 Hi, I’m @basiljung
-👀 Passionate about business, technology & software
-👨‍💻 Focused on empowering people and organizations through smart automation & placing technology where it truly adds value
-🌱 Currently learning more about software implementation & process optimization
-🤓 Deeply curious about human potential & innovation
+- 👋 Hi, I’m @basiljung
+- 👀 Passionate about business, technology & software
+- 👨‍💻 Focused on empowering people and organizations through smart automation & placing technology where it truly adds value
+- 🌱 Currently learning more about software implementation & process optimization
+- 🤓 Deeply curious about human potential & innovation
